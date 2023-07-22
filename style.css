@@ -1,3 +1,20 @@
-p {
-    background-color: green;
+.ramen,
+.honey,
+.fried {
+    font-weight: bold;
+    font-size: larger;
+    background-color: pink;
 }
+
+.ramen {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.honey {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.fried {
+   font-family: 'Courier New', Courier, monospace;
+}
+
