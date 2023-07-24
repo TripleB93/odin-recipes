@@ -18,3 +18,20 @@
    font-family: 'Courier New', Courier, monospace;
 }
 
+h1 {
+    color: blue;
+    font-weight: bold;
+}
+
+h3 {
+    color: purple;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+ul,
+li {
+    color: whitesmoke;
+    background-color: black;
+}
+
